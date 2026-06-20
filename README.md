@@ -1,16 +1,21 @@
-## Hi there 👋
+# Zach Hill
 
-<!--
-**zhinit/zhinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data science and software engineering with a math and finance background.
 
-Here are some ideas to get you started:
+**Education:**
+- UPenn MCIT (3.83)
+- Towson BS Mathematics (3.7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience:**
+- 5+ years in actuarial modeling and risk at KKR, Transamerica, and Equitable.
+- Currently a Teaching Assistant and Course Development Assistant at UPenn.
+
+**Building:**
+- Quantitative finance research
+- Audio DSP Plugins
+
+**Languages:**
+- Python
+- SQL
+- C++
+- TypeScript
