@@ -4,7 +4,7 @@ Data science and software engineering with a math and finance background.
 
 **Education:**
 - UPenn MCIT (3.83)
-- Towson BS Mathematics (3.7)
+- Towson BS Mathematics (3.68)
 
 **Experience:**
 - 5+ years in actuarial modeling and risk at KKR, and Transamerica.
