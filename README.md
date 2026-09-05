@@ -13,7 +13,7 @@ UPenn Teaching Assistant and Course Development Assistant
 - Audio DSP Plugins
 
 **Languages:**
+- TypeScript
 - Python
 - SQL
-- C++
-- TypeScript
+- Rust
