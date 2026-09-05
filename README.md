@@ -1,6 +1,8 @@
 # Zach Hill
 
-Data science and software engineering with a math and finance background.
+Full-Stack TypeScript Developer | Building AI-Powered Applications
+
+UPenn Teaching Assistant and Course Development Assistant
 
 **Education:**
 - UPenn MCIT (3.83)
