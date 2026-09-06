@@ -16,4 +16,3 @@ UPenn Teaching Assistant and Course Development Assistant
 - TypeScript
 - Python
 - SQL
-- Rust
