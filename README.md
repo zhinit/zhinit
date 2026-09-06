@@ -9,7 +9,7 @@ UPenn Teaching Assistant and Course Development Assistant
 - Towson BS Mathematics (3.68)
 
 **Building:**
-- AI Teaching Assistant to Learn Anything Fast
+- AI Learning Tool to Stay Sharp While Your Agent Codes
 - Audio DSP Plugins
 
 **Languages:**
