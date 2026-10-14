@@ -1,6 +1,6 @@
 # Zach Hill
 
-Full-Stack TypeScript Developer | Building AI-Powered Applications
+Principal Engineer at [Calypso Technologies](https://calypso-technologies.com/)
 
 UPenn Teaching Assistant and Course Development Assistant
 
