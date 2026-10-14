@@ -9,6 +9,7 @@ UPenn Teaching Assistant and Course Development Assistant
 - Towson BS Mathematics (3.68)
 
 **Building:**
+- Entity Resolution & Intelligence Platform
 - AI Learning Tool to Stay Sharp While Your Agent Codes
 - Audio DSP Plugins
 
