@@ -1,6 +1,6 @@
 # Zach Hill
 
-Principal Engineer at [Calypso Technologies](https://calypso-technologies.com/)
+Software Engineer at [Calypso Technologies](https://calypso-technologies.com/)
 
 UPenn Teaching Assistant and Course Development Assistant
 
